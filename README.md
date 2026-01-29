@@ -1,5 +1,6 @@
 # Practical_application_lll
 # Comparing Classification Models for Bank Marketing Campaigns
+https://github.com/rarces82-rockyory/Practical_application_lll.git
 
 ## Project Overview
 This project evaluates and compares multiple machine learning classification models to predict whether a client will subscribe to a bank term deposit based on marketing campaign data from a Portuguese banking institution.
